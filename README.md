@@ -11,7 +11,7 @@ We concentrate on the User-Distribution cardinality constraint. Such a constrain
 The heuristic <b>StrictUDCC</b> has been tested using real-world datasets that were publicly available from HP labs [1]. Such datasets can also be found in the folder <b>datasets</b>.
 The heuristic <b>DuplicateUDCC</b> starts from a solution (referred to as <em>decomposition</em>) of the role mining problem in the unconstrained setting, then
 the heuristic manages to fix the cases where the constraint is violated. The decompositions used to test the heuristic <b>DuplicateUDCC</b> are obtained by 
-applying state of the art role mining heuristics for the unconstrained setting to the real-world datasets 
+applying state of the art role mining heuristics for the unconstrained setting to the real-world datasets available in the folder <b>datasets</b>.
   
 </p>
 
