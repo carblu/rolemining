@@ -8,6 +8,8 @@ We concentrate on the User-Distribution cardinality constraint. Such a constrain
   </p>
 
 <p align="justify">
-The heuristics <b>DuplicateUDCC</b> and <b>StrictUDCC</b> have been tested using real-world datasets that were publicly available from HP labs
-(A. Ene, W.G. Horne, N. Milosavljevic, P. Rao, R. Schreiber, and R.E. Tarjan <em>Fast exact and heuristic methods for role minimization problems</em>. ACM SACMAT 2008, pp. 1–10). Such datasets can be found in the folder <b>datasets</b>.
+The heuristics <b>StrictUDCC</b> has been tested using real-world datasets that were publicly available from HP labs
+(A. Ene, W.G. Horne, N. Milosavljevic, P. Rao, R. Schreiber, and R.E. Tarjan <em>Fast exact and heuristic methods for role minimization problems</em>. ACM SACMAT 2008, pp. 1–10). Such datasets can be found in the folder <b>datasets</b>.<br>
+
+  The heuristics <b>DuplicateUDCC</b> and
 </p>
