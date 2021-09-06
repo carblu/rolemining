@@ -8,8 +8,9 @@ We concentrate on the User-Distribution cardinality constraint. Such a constrain
   </p>
 
 <p align="justify">
-The heuristic <b>DuplicateUDCC</b> has been tested using real-world datasets that were publicly available from HP labs
+The heuristic <b>StrictUDCC</b> has been tested using real-world datasets that were publicly available from HP labs
 (A. Ene, W.G. Horne, N. Milosavljevic, P. Rao, R. Schreiber, and R.E. Tarjan <em>Fast exact and heuristic methods for role minimization problems</em>. ACM SACMAT 2008, pp. 1–10). Such datasets can also be found in the folder <b>datasets</b>.
-
-The heuristic <b>StrictUDCC</b>  and
+The heuristic <b>DuplicateUDCC</b> starts from a solution (referred to as <em>decomposition</em>) of the role mining problem in the unconstrained setting, then
+the heuristi manage to fix the cases where the constraints are violated.
+  
 </p>
