@@ -15,6 +15,8 @@ applying state of the art role mining heuristics for the unconstrained setting t
 The computed decompositions can be found in the folder <b>decompositions</b>.
 </p>
 
+The complete set of experiments is available in the pdf file <b>Additional Material.pdf</b>.
+
 <pre>
 [1] A. Ene, W.G. Horne, N. Milosavljevic, P. Rao, R. Schreiber, and R.E. Tarjan
     <em>Fast exact and heuristic methods for role minimization problems</em>
