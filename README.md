@@ -4,6 +4,9 @@ Role-based access control (RBAC) defines the methods complex organizations use t
   </p>
 
 <p align="justify">
-We concentrate on the User-Distribution cardinality constraint. Such a constraint assumes that only a maximum number of users can be assigned a given role. In this scenario, we present a simple heuristic (DuplicateUDCC) that improves over the state of the art ones. Moreover, to consider a more realistic scenario, we propose to add another constraint to the User-Distribution model. Namely, we impose that the role mining procedure cannot generate two roles having the same set of permissions. We also describe a heuristic (StrictUDCC) to compute a solution in the new model. Heuristics' performances have been evaluated using real-world datasets. The Python code available in the folder UDCC implements both heuristics.
+We concentrate on the User-Distribution cardinality constraint. Such a constraint assumes that only a maximum number of users can be assigned a given role. In this scenario, we present a simple heuristic (<b>DuplicateUDCC</b>) that improves over the state of the art ones. Moreover, to consider a more realistic scenario, we propose to add another constraint to the User-Distribution model. Namely, we impose that the role mining procedure cannot generate two roles having the same set of permissions. We also describe a heuristic (StrictUDCC) to compute a solution in the new model. Heuristics' performances have been evaluated using real-world datasets. The Python code available in the folder UDCC implements both heuristics.
   </p>
 
+<p align="justify">
+The heuristics DuplicateUDCC and StrictUDCC have been tested using real-world datasets
+</p>
